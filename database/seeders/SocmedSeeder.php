@@ -16,19 +16,19 @@ class SocmedSeeder extends Seeder
         $socmeds = [
             [
                 'name' => 'whatsapp',
-                'link' => 'https://wa.me/6281234567890',
+                'link' => 'https://wa.me/6285717766367?text=Halo',
             ],
             [
                 'name' => 'instagram',
-                'link' => 'https://instagram.com/wildan.mzaki',
+                'link' => 'https://instagram.com/a_gimhdyt',
             ],
             [
                 'name' => 'linkedin',
-                'link' => 'https://linkedin.com/in/wildanmzaki',
+                'link' => 'https://linkedin.com/in/agim-hidayat',
             ],
             [
                 'name' => 'gmail',
-                'link' => 'mailto:wildan@vetencode.com',
+                'link' => 'mailto:agimhidayat01@gmail.com',
             ],
         ];
 

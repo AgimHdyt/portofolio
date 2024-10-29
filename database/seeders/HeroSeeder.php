@@ -16,7 +16,7 @@ class HeroSeeder extends Seeder
         $contents = [
             [
                 'key' => 'name',
-                'value' => 'Wildan M Zaki',
+                'value' => 'Agim Hidayat',
                 'type' => 'text',
             ],
             [
@@ -26,7 +26,7 @@ class HeroSeeder extends Seeder
             ],
             [
                 'key' => 'hero_text',
-                'value' => 'Halo, saya {name}, seorang {profesion}',
+                'value' => "I'm a Full Stack Developer with extensive experience for over 3 years. My expertise is create and website app, website design, and any more...",
                 'type' => 'text',
             ],
             [
@@ -36,7 +36,7 @@ class HeroSeeder extends Seeder
             ],
             [
                 'key' => 'wa_link',
-                'value' => 'https://wa.me/6281234567890?text=Halo',
+                'value' => 'https://wa.me/6285717766367?text=Halo',
                 'type' => 'text',
             ],
         ];

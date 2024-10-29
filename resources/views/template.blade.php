@@ -11,7 +11,7 @@
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
     <link rel="shortcut icon" href="/assets/images/logo.jpg" type="image/x-icon">
     <link rel="stylesheet" href="/assets/css/skins/color-1.css">
-    <link rel="stylesheet" href="/assets/css/style.css">
+    <link rel="stylesheet" href="/assets/css/css.css">
     <!-- Style Swetcher -->
     <link rel="stylesheet" href="/assets/css/skins/color-1.css" class="alternate-style" title="color-1" disabled>
     <link rel="stylesheet" href="/assets/css/skins/color-2.css" class="alternate-style" title="color-2" disabled>
@@ -120,7 +120,7 @@
 
     <!-- Js Files -->
     <script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.12/typed.min.js" referrerpolicy="no-referrer"></script>
-    <script src="/assets/js/javascript.js"></script>
+    <script src="/assets/js/js.js"></script>
     <script src="/assets/js/style-switcher.js"></script>
     <script src="/assets/sweetalert2/dist/sweetalert2.min.js"></script>
 </body>

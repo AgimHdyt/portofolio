@@ -26,7 +26,7 @@ class AboutSeeder extends Seeder
             ],
             [
                 'key' => 'self_description',
-                'value' => 'Lorem, ipsum dolor sit amet consectetur adipisicing elit. Consequatur, accusamus. Commodi, iusto blanditiis id nam officia enim temporibus ducimus incidunt natus excepturi tempore mollitia odio accusantium, optio dolore, laborum modi?',
+                'value' => "I'm a Full Stack Developer with extensive experience for over 3 years. My expertise is create and website app, website design, and any more...",
                 'type' => 'text',
             ],
             [
